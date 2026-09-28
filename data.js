@@ -98,6 +98,14 @@ window.PORTFOLIO = {
       link: "https://drive.google.com/drive/folders/14CnCJjD_1BdgBgNITDYgBV_3BYzv1RDM",
     },
     {
+      script: "music video",
+      theme: "dark",
+      project: { ar: "فيديو كليب", en: "Music video" },
+      role: { ar: "فكرة، ستوري بورد، توليد، مونتاج", en: "Concept, storyboard, generation, editing" },
+      media: [{ type: "image", src: "images/clip-hq.webp", fit: "contain" }],
+      link: "https://drive.google.com/drive/folders/1a2dPFSjFOjzmnBvAufr510zQ9F6JkwHv",
+    },
+    {
       script: "furniture",
       theme: "pink",
       project: { ar: "أثاث وديكور داخلي", en: "Furniture & interiors" },
@@ -168,14 +176,6 @@ window.PORTFOLIO = {
       role: { ar: "قصة، سكريبت، تصميم شخصيات، أنيميشن", en: "Story, script, character design, animation" },
       media: [{ type: "image", src: "images/kids-hq.webp", position: "48% 50%" }],
       link: "https://drive.google.com/drive/folders/1eZLKlkBZ2YMVBLWl1I9fWeO_ZvEsL0rz",
-    },
-    {
-      script: "music video",
-      theme: "dark",
-      project: { ar: "فيديو كليب", en: "Music video" },
-      role: { ar: "فكرة، ستوري بورد، توليد، مونتاج", en: "Concept, storyboard, generation, editing" },
-      media: [{ type: "image", src: "images/clip-hq.webp", fit: "contain" }],
-      link: "https://drive.google.com/drive/folders/1a2dPFSjFOjzmnBvAufr510zQ9F6JkwHv",
     },
     {
       script: "UGC",
