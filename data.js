@@ -26,8 +26,8 @@ window.PORTFOLIO = {
         en: "<b>17-year-old AI visual content creator</b>",
       },
       {
-        ar: "نفّذت أكتر من <b>1,000 إعلان</b> واشتغلت مع عملاء وبراندات كتير",
-        en: "Created <b>1,000+ ads</b> and worked with a wide range of clients and brands",
+        ar: "<b>خبرة سنتين</b> نفّذت فيهم أكتر من <b>1,000 إعلان</b> مع عملاء وبراندات كتير",
+        en: "<b>2 years of experience</b> and <b>1,000+ ads</b> for a wide range of clients and brands",
       },
       {
         ar: "بقدّم فيديوهات سينمائية بجودة 4K، من الفكرة والسكريبت لحد المونتاج النهائي",
@@ -42,8 +42,12 @@ window.PORTFOLIO = {
         en: "Original cartoon characters, designed and animated with their own identity",
       },
       {
-        ar: "محتوى بمستوى إنتاج احترافي، يعبّر عن البراند ويوصّل رسالته بوضوح",
-        en: "Production-grade content that reflects the brand and delivers its message",
+        ar: "فويس أوفر وليب سينك بالذكاء الاصطناعي، صوت طبيعي وحركة شفايف مظبوطة",
+        en: "AI voice-over and lip-sync with natural voices and accurate mouth movement",
+      },
+      {
+        ar: "تصميم وبناء مواقع ويب (Websites) للبراندات والبورتفوليو",
+        en: "Website design and development for brands and portfolios",
       },
     ],
     // عدّلي الأدوات حسب اللي بتستخدميه فعلًا
@@ -57,7 +61,8 @@ window.PORTFOLIO = {
       { ar: "فيديو بالـ AI", en: "AI Video" },
       { ar: "كتابة برومبتات", en: "Prompt Design" },
       { ar: "مونتاج وموشن", en: "Editing & Motion" },
-      { ar: "ستوري بورد", en: "Storyboarding" },
+      { ar: "فويس أوفر وليب سينك", en: "Voice-over & Lip-sync" },
+      { ar: "تصميم مواقع", en: "Websites" },
     ],
     features: [
       {
