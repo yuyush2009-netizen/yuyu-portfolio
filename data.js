@@ -42,8 +42,8 @@ window.PORTFOLIO = {
         en: "Original cartoon characters, designed and animated with their own identity",
       },
       {
-        ar: "فويس أوفر وليب سينك بالذكاء الاصطناعي، صوت طبيعي وحركة شفايف مظبوطة",
-        en: "AI voice-over and lip-sync with natural voices and accurate mouth movement",
+        ar: "أفاتار وتايم لابس، وفويس أوفر وليب سينك بصوت طبيعي وحركة شفايف مظبوطة",
+        en: "AI avatars, time-lapse videos, voice-over and lip-sync with natural voices",
       },
       {
         ar: "تصميم وبناء مواقع ويب (Websites) للبراندات والبورتفوليو",
